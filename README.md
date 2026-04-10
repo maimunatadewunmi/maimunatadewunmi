@@ -9,14 +9,14 @@ I'm especially interested in maternal and child health, and how data can support
 - Data Visualization: Power BI
 
 ## Projects
- [Medical Insurance Cost Analysis] - ()
+ [Medical Insurance Cost Analysis] - (https://github.com/maimunatadewunmi/Medical-Insurance-Project)
 
 ## What I'm Working On
 I'm currently improving my skills in data storytelling and learning how to communicate my insights more effectively.
 
 ## Contact
-Email - maimunatadewunmi22@gmail.com
-LinkedIn - 
+- Email: maimunatadewunmi22@gmail.com
+- LinkedIn 
 
 
 <!--
