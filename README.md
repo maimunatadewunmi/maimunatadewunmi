@@ -13,10 +13,18 @@ Interested in healthcare operations, health systems, and women’s health.
 **Focus Areas:** Healthcare Analytics • Health Systems • Data Visualization
   
 ### Projects
-**Maternal Mortality in Africa**  
+**Maternal Mortality in Africa**
+https://github.com/maimunatadewunmi/Maternal-Mortality-in-Africa
 Exploring maternal mortality patterns and associated factors across African countries.
 
- [Medical Insurance Cost Analysis] - (https://github.com/maimunatadewunmi/Medical-Insurance-Project)
+**Medical Insurance Cost Analysis** 
+https://github.com/maimunatadewunmi/Medical-Insurance-Project
+Analyzed medical insurance costs to explore how factors such as age, BMI, smoking status, and region relate to healthcare charges.
+
+
+**Maternal Health Risk Analysis** 
+
+Using healthcare data to examine factors associated with maternal health risk.
 
 ### What I'm Working On
 
