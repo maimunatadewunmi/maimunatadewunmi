@@ -1,22 +1,32 @@
-## Hi, I'm Maimunat 👋
+# Hello, I'm Maimunat 👋
 
-A medical student exploring how data can improve healthcare decisions and patient outcomes.
-I'm currently building skills in data analysis and storytelling, with increasing interest in public health and real-world medical problems.
-I'm especially interested in maternal and child health, and how data can support better care.
+### Healthcare Data Analyst | SQL • Power BI • Excel
 
-## Tools
-- Data Analysis: Excel, SQL
-- Data Visualization: Power BI
+Making better healthcare decisions with data.
 
-## Projects
+Interested in healthcare operations, health systems, and women’s health.
+
+
+### Tools
+**Data Analysis:** SQL • Excel • Power BI
+
+**Focus Areas:** Healthcare Analytics • Health Systems • Data Visualization
+  
+### Projects
+**Maternal Mortality in Africa**  
+Exploring maternal mortality patterns and associated factors across African countries.
+
  [Medical Insurance Cost Analysis] - (https://github.com/maimunatadewunmi/Medical-Insurance-Project)
 
-## What I'm Working On
-I'm currently improving my skills in data storytelling and learning how to communicate my insights more effectively.
+### What I'm Working On
 
-## Contact
+Building practical healthcare analytics projects and developing my skills in SQL, Power BI, and data storytelling.
+
+### Let's Connect
+Open to internships, freelance projects, and opportunities in healthcare data analytics.
+
 - Email: maimunatadewunmi22@gmail.com
-- LinkedIn 
+- LinkedIn: http://www.linkedin.com/in/maimunatadewunmi
 
 
 <!--
